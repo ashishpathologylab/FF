@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-11T10:00:00Z",
+  "appName": "FF ID MANAGEMENT",
+  "telegramUrl": "https://t.me/ff_unbaned",
+  "paymentQrUrl": "https://cdn.phototourl.com/member/2026-10-11-8ec46a0b-77c1-4c9d-8415-8d0fd98d2bf0.png",
+  "authExpiryDays": 30,
+  "requireIdPass": true,
+  "passes": [
+    {
+      "pass": "ASHISH",
+      "name": "Ashish",
+      "issuedAt": "2026-10-01",
+      "expiresAt": "2027-11-01",
+      "active": true,
+      "note": "Monthly plan"
+    },
+    {
+      "pass": "RAHUL-X9Y8Z7",
+      "name": "Rahul Sharma",
+      "issuedAt": "2026-10-05",
+      "expiresAt": "2026-11-05",
+      "active": true,
+      "note": "Monthly plan"
+    },
+    {
+      "pass": "VIP-2026-PREMIUM",
+      "name": "VIP Member",
+      "issuedAt": "2026-10-01",
+      "expiresAt": "2027-10-01",
+      "active": true,
+      "note": "Yearly VIP"
+    }
+  ]
+}
